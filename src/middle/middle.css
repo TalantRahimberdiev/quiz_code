@@ -1,0 +1,20 @@
+
+#numberOfQuestion{
+    text-align: center;
+}
+#prev, #try{
+    margin-top:2%;
+}
+#b0, #b1{
+    margin-right: 2%;
+    margin-bottom: 3%;
+}
+#time{
+    float:right;
+}
+#pred,#naz{
+    text-align: center;
+}
+
+
+
